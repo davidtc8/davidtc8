@@ -31,6 +31,9 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 ```
 <!--END_SECTION:waka-->
 
+<br />
+<br />
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  6,448 Karma Points           
