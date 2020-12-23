@@ -33,8 +33,7 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  6,448 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 484 tasks so far           
-⏳  Longest streak is 10 days
+🏆  Continue Analyzing data and gather insights           
+👒  Stay up to date with One Piece                    
+⏳  Longest streak is 15 days coding
 <!-- TODO-IST:END -->
