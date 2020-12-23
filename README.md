@@ -29,6 +29,7 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
