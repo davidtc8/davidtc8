@@ -7,6 +7,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate self-taught Python Developer 🚀 from Mexico!
 
