@@ -11,7 +11,7 @@
 
 Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate self-taught Python Developer 🚀 from Mexico!
 
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=ecf05e47q1dbrz4zmqbf2hpmzu34vcbsmkhu79dfunrrc05w&rid=giphy.gif" width="400" height="400" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/lQ7payiGhj5xkyxIg2/giphy.gif?cid=ecf05e47azpg4zyi02ytit1o471zexe1196xjo0l5bwya3j8&rid=giphy.gif" width="400" height="400" />
   
 **Here's a little bit about me:**
 
