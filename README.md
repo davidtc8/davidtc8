@@ -15,7 +15,7 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
   
 **Here's a little bit about me:**
 
-- 👨🏽‍💻 I’m currently working on a [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) case study using Pandas and Matplotlib. :wink:;
+- 👨🏽‍💻 I’m currently working on a [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) case study using Pandas and Matplotlib. :wink:
 - 🌱 I’m currently learning Object Oriented Programming and Data Visualization with Seaborn.  
 - 💬 Lv 10 Warlock in Dungeons and Dragons
 - 📝[Resume](https://drive.google.com/file/d/1FQX9Cx784Qk6b_6mEKgVeapOdnJIJnhY/view?usp=sharing)
@@ -28,15 +28,6 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   31.82 % 
-TeX          1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-HTML         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-JSON         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JavaScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 ```
 <!--END_SECTION:waka-->
 
