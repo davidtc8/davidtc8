@@ -2,7 +2,7 @@
 <a href="https://twitter.com/davidtorresc8">
   <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://https://www.linkedin.com/in/david-tc/">
+<a href="https://www.linkedin.com/in/david-tc/">
   <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
