@@ -19,7 +19,7 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 - 🌱 I’m currently learning Object Oriented Programming and Data Visualization with Seaborn 📈.  
 - 💬 Lv 10 Warlock 🧙 in Dungeons and Dragons
 - 📝[Resume](https://drive.google.com/file/d/1FQX9Cx784Qk6b_6mEKgVeapOdnJIJnhY/view?usp=sharing)
-- 📚 I did a 100 days of reading challenge with my friends (My favorite author is Isaac Asimov)
+- 📚 I did a 100 days of reading challenge with my friends (My favorite author is Isaac Asimov 🤖)
 
 **Languages and Tools:**  
 
