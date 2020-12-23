@@ -14,11 +14,10 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
   
 **Here's a little bit about me:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 👨🏽‍💻 I’m currently working on a [!Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) case study using Pandas and Matplotlib. :wink:;
+- 🌱 I’m currently learning Object Oriented Programming and Data Visualization with Seaborn.  
+- 💬 Lv 10 Warlock in Dungeons and Dragons
+- 📝[Resume](https://drive.google.com/drive/u/1/folders/1jjHRia9m-RWfPAT7twNnRuDK93cbKE2M)
 
 **Languages and Tools:**  
 
