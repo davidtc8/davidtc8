@@ -38,8 +38,3 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 ✅  Completed 484 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
