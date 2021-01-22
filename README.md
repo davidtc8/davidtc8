@@ -16,8 +16,8 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 **Here's a little bit about me:**
 
 - 👨🏽‍💻 Here are two projects in Data Analysis. One is a [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) case study using Pandas 🐼 and Matplotlib and here is a [Movies Case Study Project](https://github.com/davidtc8/Movies_Data_Analysis) 🎥. :wink:
-- 🌱 I’m currently learning Object Oriented Programming and learning about descriptive statistics 📊.  
-- 💬 Lv 10 Warlock 🧙 in Dungeons and Dragons
+- 🌱 I’m currently learning Data Structures in Python and learning Regression and Multiple Linear Regression 📊.  
+- 💬 Lv 10 Warlock 🧙 in Dungeons and Dragons. Here's and [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python.
 - 📝[Resume](https://drive.google.com/file/d/1FQX9Cx784Qk6b_6mEKgVeapOdnJIJnhY/view?usp=sharing)
 - 📚 I did a 100 days of reading challenge with my friends (My favorite author is Isaac Asimov 🤖)
 
