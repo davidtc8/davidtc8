@@ -35,6 +35,6 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  Doing the 100 days of Code in [Twitter!](https://twitter.com/davidtorresc8)          
-👒  Stay up to date with One Piece                    
+✍️Writing Articles in Medium                    
 ⏳  Longest streak is 15 days coding
 <!-- TODO-IST:END -->
