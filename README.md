@@ -13,7 +13,7 @@ Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate sel
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/xT9DPsDlwJKh3mkZCU/giphy.gif?cid=ecf05e475a61a591f78c880bb7a93ac6aa03ccb736e55f96&rid=giphy.gif" width="400" height="400" />
   
-**Here's a little bit about me:**
+**Here's a little bit about me!:**
 
 - 👨🏽‍💻 Here are two projects in Data Analysis. One is a [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) case study using Pandas 🐼 and Matplotlib and here is a [Movies Case Study Project](https://github.com/davidtc8/Movies_Data_Analysis) 🎥. :wink:
 - 🌱 I’m currently learning Data Structures in Python and learning Linear Regression and Multiple Linear Regression 📊.  
