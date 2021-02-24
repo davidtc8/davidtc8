@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm [David Torres!](https://www.linkedin.com/in/david-tc/), a passionate self-taught Python Developer 🚀 from Mexico!
+Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), a passionate self-taught Python Developer 🚀 from Mexico!
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/xT9DPsDlwJKh3mkZCU/giphy.gif?cid=ecf05e475a61a591f78c880bb7a93ac6aa03ccb736e55f96&rid=giphy.gif" width="400" height="400" />
   
