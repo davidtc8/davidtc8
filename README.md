@@ -9,7 +9,7 @@
 
 <br />
 
-# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "80">
+# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
 
 Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico! I'm currently working as a Data Conversion Consultant using Python, SQL and Excel. I'm interested in software development and currently developing my own projects.
