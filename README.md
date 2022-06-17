@@ -22,12 +22,12 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 📝 Here's [My CV](https://drive.google.com/file/d/1GFmZVWXxNLmH60lDJfoRpzhSg8OdpRp3/view?usp=sharing)
   
-## ⛰️ 2021 Objectives
+## ⛰️ 2022 Objectives
 
-- [x] Develop my own website using HTML, CSS and JS.
-- Run 10K in November 2021 (WIP)
 - [x] Get certified in Python by Hackerank
-- Learn Nodejs and React (WIP)
+- Develop my own portfolio usig React
+- [x] Start building healthy habits
+- Be competent in Data Structures and Algos
 - [x] Create my own RPG Game in Python 
 
 ## 🤖 Technologies & Tools
