@@ -16,7 +16,7 @@ Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico!
 
 ## ✍🏻 Writing and Website
 
-Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/). Here's [my webpage](https://davidtc8.github.io/My_portfolio/) as well in case you want to check see it! 
+Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/). Here's [my webpage](https://davidtc8.github.io/My_portfolio/) as well in case you want to see it! 
 
 ## 👨‍💻 Traditional CV
 
@@ -43,14 +43,15 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidtc8&theme=radical)
-
 ## 💼 Projects showcase
 
-- [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib.
-- [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥. 
-- [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python.
-- [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games 
-- [Workout Tracker 🏃‍♂️](https://github.com/davidtc8/Workout_Tracker) to reach my sport goals!
-- [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈
-- [Python script](https://github.com/davidtc8/International_Space_Station_Tracker) 🤖 that tracks where is the International Space Station (ISS).
+- [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib. - (*Python - Data Analysis*)
+- [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥.  (*Python - Data Analysis*)
+- [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. (*Python - Software Development*)
+- [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS (*Javascript - Software Development*)
+- [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games (*Python - Automation*)
+- [Workout Tracker 🏃‍♂️](https://github.com/davidtc8/Workout_Tracker) to reach my sport goals! (*Python - Automation*)
+- [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈 (*Python - Automation*)
+- [California Housing Prices](https://github.com/davidtc8/California-Housing-Prices) Analyzing the housing prices of California EEUU using linear regression. (*Python - Data Analysis*)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidtc8&theme=radical)
