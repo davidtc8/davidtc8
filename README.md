@@ -45,6 +45,8 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 ## 💼 Projects showcase
 
+- Data Analysis 
+  - [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib.
 - [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib. - (**Python - Data Analysis**)
 - [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥.  (**Python - Data Analysis**)
 - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. (**Python - Software Development**)
