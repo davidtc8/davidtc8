@@ -43,6 +43,8 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 ![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidtc8&theme=radical)
+
 ## 💼 Projects showcase
 
 - [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib.
