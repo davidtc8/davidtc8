@@ -45,15 +45,18 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 ## 💼 Projects showcase
 
-- Data Analysis 
+- Data Analysis/Machine Learning - _**Python**_
   - [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib.
-- [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib. - (**Python - Data Analysis**)
-- [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥.  (**Python - Data Analysis**)
-- [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. (**Python - Software Development**)
-- [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS (**Javascript - Software Development**)
-- [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games (**Python - Automation**)
-- [Workout Tracker 🏃‍♂️](https://github.com/davidtc8/Workout_Tracker) to reach my sport goals! (**Python - Automation**)
-- [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈 (**Python - Automation**)
-- [California Housing Prices](https://github.com/davidtc8/California-Housing-Prices) Analyzing the housing prices of California EEUU using linear regression. (**Python - Data Analysis**)
+  - [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥. 
+  - [California Housing Prices](https://github.com/davidtc8/California-Housing-Prices) Analyzing the housing prices of California EEUU using linear regression.
+
+- Software Development - **Python** / **Javascript**
+  - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. 
+  - [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS
+
+- Automation - **Python**
+  - [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games
+  - [Workout Tracker 🏃‍♂️](https://github.com/davidtc8/Workout_Tracker) to reach my sport goals!
+  - [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidtc8&theme=radical)
