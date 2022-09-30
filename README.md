@@ -50,13 +50,14 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
   - [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥. 
   - [California Housing Prices](https://github.com/davidtc8/California-Housing-Prices) Analyzing the housing prices of California EEUU using linear regression.
 
-- Software Development - **Python** / **Javascript**
+- Software Development - _**Python**_ / _**Javascript**_
   - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. 
-  - [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS
+  - [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS.
 
-- Automation - **Python**
-  - [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games
+- Automation - _**Python**_ / _**Javascript**_
+  - [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games.
   - [Workout Tracker 🏃‍♂️](https://github.com/davidtc8/Workout_Tracker) to reach my sport goals!
-  - [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈
+  - [Stock Monitoring Bot](https://github.com/davidtc8/Stock-Monitoring-Project) 📈.
+  - [Team Profile Generator](https://github.com/davidtc8/team-profile-gen) built using Node JS.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidtc8&theme=radical)
