@@ -1,4 +1,4 @@
-[![Header](header_image.png)](https://davidtc8.github.io/My_portfolio/)
+[![Header](header_image.png)](https://whyiliketocode.herokuapp.com/)
 
 <a href="https://twitter.com/davidtorresc8">
   <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -45,14 +45,17 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 ## 💼 Projects showcase
 
+- Software Development - _**Python**_ / _**Javascript**_
+  - [Foodfix](https://foodfix.mx/) MERN Application.
+  - [Note Taker](https://note-taking-app-js.herokuapp.com/) usign Javascript and MySQL.
+  - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python.
+  - [JS Quiz](https://davidtc8.github.io/JS-Quiz/) Quiz using Javascript and NodeJS.
+  - [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS.
+
 - Data Analysis/Machine Learning - _**Python**_
   - [Fuel Economy](https://github.com/davidtc8/Fuel_Economy_Data_Analysis) study case study using Pandas 🐼 and Matplotlib.
   - [Movies](https://github.com/davidtc8/Movies_Data_Analysis) Case Study Project 🎥. 
   - [California Housing Prices](https://github.com/davidtc8/California-Housing-Prices) Analyzing the housing prices of California EEUU using linear regression.
-
-- Software Development - _**Python**_ / _**Javascript**_
-  - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python. 
-  - [Full Stack Application](https://github.com/davidtc8/Food-fix) made in JS, HTML, CSS, SQL, and Node JS.
 
 - Automation - _**Python**_ / _**Javascript**_
   - [Python bot 🤖](https://github.com/davidtc8/Automated_game_playing_bot) that plays games.
