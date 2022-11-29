@@ -1,4 +1,4 @@
-[![Header](header_image.png)](https://whyiliketocode.herokuapp.com/)
+[![Header](header_image.png)](https://whyiliketocode.herokuapp.com/){:target="_blank" rel="noopener"}
 
 <a href="https://twitter.com/davidtorresc8">
   <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
