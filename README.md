@@ -1,8 +1,6 @@
-<a href="https://whyiliketocode.herokuapp.com/">
+<a href="https://whyiliketocode.herokuapp.com/" target="_blank">
   <img src=header_image.png>
 </a>
-
-[![Header](header_image.png)](https://whyiliketocode.herokuapp.com/){:target="_blank" rel="noopener"}
 
 <a href="https://twitter.com/davidtorresc8">
   <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
