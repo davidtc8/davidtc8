@@ -1,3 +1,7 @@
+<a href="https://whyiliketocode.herokuapp.com/">
+  <img src=header_image.png>
+</a>
+
 [![Header](header_image.png)](https://whyiliketocode.herokuapp.com/){:target="_blank" rel="noopener"}
 
 <a href="https://twitter.com/davidtorresc8">
