@@ -22,15 +22,14 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 ## 👨‍💻 Traditional CV
 
-📝 Here's [My CV](https://drive.google.com/file/d/1GFmZVWXxNLmH60lDJfoRpzhSg8OdpRp3/view?usp=sharing)
+📝 Here's [My CV](https://drive.google.com/file/d/1rMMDQuNwJNbnBl1lweZAbYQ51MdtG30K/view?usp=sharing)
   
-## ⛰️ 2022 Objectives
+## ⛰️ 2023 Objectives
 
-- [x] Get certified in Python by Hackerank
-- Develop my own portfolio usig React
-- [x] Start building healthy habits
-- Be competent in Data Structures and Algos
-- [x] Create my own RPG Game in Python 
+- [] Win a Padel Tournament (5th category)
+- [x] Start building healthy habits (padel and bike)
+- [] Be competent in Data Structures and Algos
+- [] Create my own RPG Game in React.js, SQL, and Node.js
 
 ## 🤖 Technologies & Tools
 
