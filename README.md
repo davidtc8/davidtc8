@@ -26,10 +26,10 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
   
 ## ⛰️ 2023 Objectives
 
-- [] Win a Padel Tournament (5th category)
+- Win a Padel Tournament (5th category)
 - [x] Start building healthy habits (padel and bike)
-- [] Be competent in Data Structures and Algos
-- [] Create my own RPG Game in React.js, SQL, and Node.js
+- Be competent in Data Structures and Algos
+- Create my own RPG Game in React.js, SQL, and Node.js
 
 ## 🤖 Technologies & Tools
 
@@ -47,7 +47,7 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 ## 💼 Projects showcase
 
 - Software Development - _**Python**_ / _**Javascript**_
-  - [Foodfix](https://foodfix.mx/) MERN Application.
+  - [Foodfix](https://food-fix-app.herokuapp.com/) MERN Application.
   - [Note Taker](https://note-taking-app-js.herokuapp.com/) usign Javascript and MySQL.
   - [RPG Game 🎲](https://github.com/davidtc8/My_First_RPG_Game) that I made in Python.
   - [JS Quiz](https://davidtc8.github.io/JS-Quiz/) Quiz using Javascript and NodeJS.
