@@ -14,7 +14,7 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
 
-Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico! I'm currently working as a Data Conversion Consultant using Python, SQL and Excel. I'm interested in software development and currently developing my own projects.
+Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico! I'm currently working as a Full Stack Engineer using React.js, SQL, Kraken and GitHub. Along with my team I'm currently developing a geolocation application for Desktop (React) and Mobile (React Native).
 
 ## ✍🏻 Writing and Website
 
