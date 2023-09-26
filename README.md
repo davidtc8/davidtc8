@@ -6,7 +6,7 @@
   <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/david-tc/">
-  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/linkedin.svg" />
+  <img align="left" alt="David's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <br />
