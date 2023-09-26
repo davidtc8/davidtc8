@@ -33,16 +33,18 @@ Apart from coding, I like to write on [Medium](https://davidtorresc.medium.com/)
 
 ## 🤖 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/IDE-VS-informational?style=flat&logo=visualstudio&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Code-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=11A1FF)
-![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Library-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Repository-GitHub-informational?style=flat&logo=github&logoColor=white&color=11A1FF)
+![](https://img.shields.io/badge/Scrum-Jira-informational?style=flat&logo=jira&logoColor=white&color=11A1FF)
 
 ## 💼 Projects showcase
 
