@@ -3,10 +3,10 @@
 </a>
 
 <a href="https://twitter.com/davidtorresc8">
-  <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="David Torres | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/david-tc/">
-  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
 </a>
 
 <br />
@@ -14,7 +14,7 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">
 
 
-Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico! I'm currently working as a Full Stack Engineer using React.js, SQL, Kraken and GitHub. Along with my team I'm currently developing a geolocation application for Desktop (React) and Mobile (React Native).
+Hi, I'm [David Torres](https://www.linkedin.com/in/david-tc/), 🚀 from Mexico! I'm currently working as a Full Stack Engineer at Nymbus with 3 years of experience using React.js, SQL, Kraken and GitHub. Along with my team I'm currently developing a geolocation application for Desktop (React) and Mobile (React Native).
 
 ## ✍🏻 Writing and Website
 
